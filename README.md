@@ -16,6 +16,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ### 2024
 
+* ETC: Efficient Training of Temporal Graph Neural Networks over Large-scale Dynamic Graphs (**VLDB, 2024**) [[paper](https://www.vldb.org/pvldb/vol17/p1060-gao.pdf)[code](https://github.com/eddiegaoo/ETC)]
 * TASER: Temporal Adaptive Sampling for Fast and Accurate Dynamic Graph Representation Learning (**IPDPS, 2024**) [[paper](https://arxiv.org/abs/2402.05396)][[code](https://github.com/facebookresearch/taser-tgnn)]
 * Mayfly: a Neural Data Structure for Graph Stream Summarization (**ICLR, 2024, Spotlight**) [[paper](https://openreview.net/attachment?id=n7Sr8SW4bn&name=pdf)]
 * Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=AJBkfwXh3u&name=pdf)][[code](https://github.com/kesenzhao/DyGNNExplainer)]
