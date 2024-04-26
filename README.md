@@ -10,6 +10,7 @@ Awesome papers (codes) about machine learning (deep learning) on graphs (network
   - [Bipartite Graph](#bipartite)
   - [Time-series Graph](#time-series)
   - [Static Graph](#static)
+  - [Weighted Graph](#weighted)
 - [Tools](#tools)
 
 <a name="survey" />
@@ -52,6 +53,7 @@ Awesome papers (codes) about machine learning (deep learning) on graphs (network
 * IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion (**WWW, 2024**)
 * TATKC: A Temporal Graph Neural Network for Fast Approximate Temporal Katz Centrality Ranking (**WWW, 2024**)
 * Efficient exact and approximate betweenness centrality computation for temporal graphs (**WWW, 2024**)
+* No Need to Look Back: An Efficient and Scalable Approach for Temporal Network Representation Learning (**arxiv**) [[paper](https://arxiv.org/pdf/2402.01964)][[code](https://github.com/Graph-COM/NLB)]
 
 #### 2023
 
@@ -195,7 +197,7 @@ Awesome papers (codes) about machine learning (deep learning) on graphs (network
 * Macro Graph Neural Networks for Online Billion-Scale Recommender Systems (**WWW, 2024**) [[paper](https://arxiv.org/pdf/2401.14939.pdf)][[code](https://github.com/YuanchenBei/MacGNN)]
 
 #### 2023
-* Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs (**VLDB, 2023**) [[paper](https://dl.acm.org/doi/abs/10.14778/3626292.3626300)][[code](https://github.com/iBoom2333/AnchorGNN)]
+* Billion-Scale Bipartite Graph Embedding: A Global-Local Induced Approach (**VLDB, 2023**) [[paper](https://dl.acm.org/doi/abs/10.14778/3626292.3626300)][[code](https://github.com/iBoom2333/AnchorGNN)]
 
 
 
@@ -215,6 +217,13 @@ Awesome papers (codes) about machine learning (deep learning) on graphs (network
 
 #### 2023
 
+<a name="weighted" />
+
+### Weighted Graph
+
+#### 2024
+
+#### 2023
 
 
 <a name="tools" />
