@@ -8,9 +8,7 @@ Awesome papers (codes) about machine learning (deep learning) on graphs (network
 - [Papers](#papers)
   - [Dynamic Graph](#dynamic)
   - [Bipartite Graph](#bipartite)
-  - [Time-series Graph](#time-series)
   - [Static Graph](#static)
-  - [Weighted Graph](#weighted)
 - [Tools](#tools)
 
 <a name="survey" />
@@ -200,15 +198,6 @@ Awesome papers (codes) about machine learning (deep learning) on graphs (network
 * Billion-Scale Bipartite Graph Embedding: A Global-Local Induced Approach (**VLDB, 2023**) [[paper](https://dl.acm.org/doi/abs/10.14778/3626292.3626300)][[code](https://github.com/iBoom2333/AnchorGNN)]
 
 
-
-<a name="time-series" />
-
-### Time-series Graph
-
-#### 2024
-
-#### 2023
-
 <a name="static" />
 
 ### Static Graph
@@ -217,13 +206,7 @@ Awesome papers (codes) about machine learning (deep learning) on graphs (network
 
 #### 2023
 
-<a name="weighted" />
 
-### Weighted Graph
-
-#### 2024
-
-#### 2023
 
 
 <a name="tools" />
