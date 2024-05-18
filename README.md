@@ -1,6 +1,6 @@
 # Awesome-GraphLearning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome papers (codes) about machine learning (deep learning) on graphs (networks / knowledge graphs) and their applications (i.e. Recommender Systems).
+Awesome papers (codes) about machine learning (deep learning) on **time-aware graphs** and their applications (i.e. Recommender Systems).
 
 ## Contents
 
