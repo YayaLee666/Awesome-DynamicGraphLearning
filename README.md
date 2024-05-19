@@ -39,7 +39,6 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 * Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=AJBkfwXh3u&name=pdf)][[code](https://github.com/kesenzhao/DyGNNExplainer)]
 * FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=82Mc5ilInM&name=pdf)][[code](https://github.com/Tianxzzz/FreeDyG)]
 * PRES: Toward Scalable Memory-Based Dynamic Graph Neural Networks (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=gjXor87Xfy&name=pdf)][[code](https://github.com/jwsu825/MDGNN_BS)]
-* Hypergraph Dynamic System (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=NLbRvr840Q&name=pdf)]
 * Deep Temporal Graph Clustering (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=ViNe1fjGME&name=pdf)][[code](https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering)]
 * GraphPulse: Topological representations for temporal graph property prediction (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=DZqic2sPTY&name=pdf)][[code](https://github.com/kiarashamsi/GraphPulse)]
 * Beyond Spatio-Temporal Representations: Evolving Fourier Transform for Temporal Graphs (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=uvFhCUPjtI&name=pdf)][[code](https://github.com/ansonb/EFT)]
@@ -89,7 +88,6 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 * Disentangled Dynamic Heterogeneous Graph Learning for Opioid Overdose Prediction (**KDD, 2022**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539279)][[code]()]
 * ROLAND: Graph Learning Framework for Dynamic Graphs (**KDD, 2022**) [[paper](https://arxiv.org/pdf/2208.07239.pdf)][[code](https://github.com/snap-stanford/roland)]
 * Subset Node Anomaly Tracking over Large Dynamic Graphs (**KDD, 2022**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539389)][[code](https://github.com/zjlxgxz/DynAnom)]
-* Streaming Graph Neural Networks via Generative Replay (**KDD, 2022**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539336)][[code](https://github.com/Junshan-Wang/SGNN-GR)]
 * Neighborhood-aware Scalable Temporal Network Representation Learning (**LoG, 2022**) [[paper](https://openreview.net/pdf?id=EPUtNe7a9ta)][[code](https://github.com/Graph-COM/Neighborhood-Aware-Temporal-Network)]
 * DisenCTR: Dynamic Graph-based Disentangled Representation for Click-Through Rate Prediction (**SIGIR, 2022**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531851)][[code](https://github.com/Fang6ang/DisenCTR)]
 * STAM: A Spatiotemporal Aggregation Method for Graph Neural Network-based Recommendation (**WWW, 2022**) [[paper](https://keg.cs.tsinghua.edu.cn/jietang/publications/WWW22-Yang%20et%20al.-STAM-GNN.pdf)][[code](https://github.com/zyang-16/STAM)]
@@ -140,7 +138,6 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 * Laplacian Change Point Detection for Dynamic Graphs (**KDD, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403077)][[code](https://github.com/shenyangHuang/LAD)]
 * Algorithmic Aspects of Temporal Betweenness (**KDD, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403259)][[code](https://fpt.akt.tu-berlin.de/software/temporal_betweenness/)]
 * Heterogeneous Graph Transformer (**WWW, 2020**) [[paper](https://arxiv.org/pdf/2003.01332.pdf)][[code](https://github.com/acbull/pyHGT)]
-* Streaming Graph Neural Network (**SIGIR, 2020**) [[paper](https://arxiv.org/pdf/1810.10627.pdf)][[code](https://github.com/alge24/DyGNN)]
 * Next-item Recommendation with Sequential Hypergraphs (**SIGIR, 2020**) [[paper](http://www.public.asu.edu/~kding9/pdf/SIGIR2020_HyperRec.pdf)][[code](https://github.com/wangjlgz/HyperRec)]
 * Temporal Network Embedding with High-Order Nonlinear Information (**AAAI, 2020**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5993)]
 * Motif-Preserving Temporal Network Embedding (**IJCAI, 2020**) [[paper](https://www.ijcai.org/proceedings/2020/0172.pdf)]
@@ -149,7 +146,6 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 * Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network (**WSDM, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441745)][[code]()]
 * Continuous-Time Dynamic Graph Learning via Neural Interaction Processes (**CIKM, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946)]
 * tdGraphEmbed: Temporal Dynamic Graph-Level Embedding (**CIKM, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411953)][[code](https://github.com/moranbel/tdGraphEmbed)]
-* Streaming Graph Neural Network via Continue Learning (**CIKM, 2020**) [[paper](https://arxiv.org/pdf/2009.10951.pdf)][[code](https://github.com/Junshan-Wang/ContinualGNN)]
 * Disentangle-based Continual Graph Representation Learning (**EMNLP, 2020**) [[paper](https://arxiv.org/pdf/2010.02565.pdf)][[code](https://github.com/KXY-PUBLIC/DiCGRL)]
 * TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion (**EMNLP, 2020**) [[paper](https://aclanthology.org/2020.emnlp-main.462.pdf)][[code](https://github.com/JiapengWu/TeMP)]
 * Recurrent Event Network: Autoregressive Structure Inferenceover Temporal Knowledge Graphs (**EMNLP, 2020**) [[paper](https://aclanthology.org/2020.emnlp-main.541.pdf)][[code](https://github.com/INK-USC/RE-Net)]
@@ -167,8 +163,6 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 * Learning Dynamic Context Graphs for Predicting Social Events (**KDD, 2019**) [[paper](https://yue-ning.github.io/docs/KDD19-dengA.pdf)][[code](https://github.com/amy-deng/DynamicGCN)]
 * EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (**AAAI, 2019**) [[paper](https://arxiv.org/pdf/1902.10191.pdf)][[code](https://github.com/IBM/EvolveGCN)]
 * Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems (**WWW, 2019**) [[paper](https://arxiv.org/pdf/1904.04381.pdf)]
-* Real-Time Streaming Graph Embedding Through Local Actions (**WWW, 2019**) [[paper](https://nickduffield.net/download/papers/DL4G-SDE-2019.pdf)]
-* Dynamic Hypergraph Neural Networks (**IJCAI, 2019**) [[paper](https://www.ijcai.org/Proceedings/2019/0366.pdf)][[code](https://github.com/iMoonLab/DHGNN#:~:text=%20DHGNN%3A%20Dynamic%20Hypergraph%20Neural%20Networks%20%201,%28Zhilin%20Yang%2C%20William%20W.%20-%20Cohen%2C...%20More%20)]
 * Node Embedding over Temporal Graphs (**IJCAI, 2019**) [[paper](https://www.ijcai.org/proceedings/2019/0640.pdf)][[code](https://github.com/urielsinger/tNodeEmbed#:~:text=Node%20Embedding%20over%20Temporal%20Graphs.%20Uriel%20Singer%2C%20Ido,for%20nodes%20in%20any%20%28un%29directed%2C%20%28un%29weighted%20temporal%20graph.)]
 * Temporal Network Embedding with Micro- and Macro-dynamics (**CIKM, 2019**) [[paper](https://par.nsf.gov/servlets/purl/10148548)][[code](https://github.com/rootlu/MMDNE)]
 
@@ -237,6 +231,15 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 
 #### 2023
 
+#### 2022
+* Streaming Graph Neural Networks via Generative Replay (**KDD, 2022**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539336)][[code](https://github.com/Junshan-Wang/SGNN-GR)]
+
+#### 2021
+
+#### 2020
+* Streaming Graph Neural Network (**SIGIR, 2020**) [[paper](https://arxiv.org/pdf/1810.10627.pdf)][[code](https://github.com/alge24/DyGNN)]
+* Streaming Graph Neural Network via Continue Learning (**CIKM, 2020**) [[paper](https://arxiv.org/pdf/2009.10951.pdf)][[code](https://github.com/Junshan-Wang/ContinualGNN)]
+* Real-Time Streaming Graph Embedding Through Local Actions (**WWW, 2019**) [[paper](https://nickduffield.net/download/papers/DL4G-SDE-2019.pdf)]
 
 <a name="hyper" />
 
@@ -245,9 +248,11 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 ### Survey
 
 #### 2024
-
+* Hypergraph Dynamic System (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=NLbRvr840Q&name=pdf)]
 #### 2023
 
+#### 2019
+* Dynamic Hypergraph Neural Networks (**IJCAI, 2019**) [[paper](https://www.ijcai.org/Proceedings/2019/0366.pdf)][[code](https://github.com/iMoonLab/DHGNN#:~:text=%20DHGNN%3A%20Dynamic%20Hypergraph%20Neural%20Networks%20%201,%28Zhilin%20Yang%2C%20William%20W.%20-%20Cohen%2C...%20More%20)]
 
 <a name="tools" />
 
