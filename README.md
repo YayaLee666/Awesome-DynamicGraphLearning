@@ -190,7 +190,7 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 * Deep learning for dynamic graphs: models and benchmarks [[paper](https://arxiv.org/pdf/2307.06104v2)]
 
 ### 2024
-* Deep Temporal Graph Clustering (**ICLR**) [[paper](https://openreview.net/attachment?id=ViNe1fjGME&name=pdf)][[~~code~~](https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering)]
+* Deep Temporal Graph Clustering (**ICLR**) [[paper](https://openreview.net/attachment?id=ViNe1fjGME&name=pdf)][[code](https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering)]
 
 ### 2023
 * HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction (**WWW**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583455)]
@@ -209,6 +209,7 @@ Awesome papers (codes) about machine learning (deep learning) on **time-aware gr
 * Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space (**KDD**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467422)][[code](https://github.com/marlin-codes/HTGN)]
 
 ### 2020
+* Inductive Representation Learning on Temporal Graphs (**ICLR, 2020**) [[paper](https://arxiv.org/pdf/2002.07962.pdf)][[code](https://github.com/StatsDLMathsRecomSys/Isnductive-representation-learning-on-temporal-graphs)]
 * Transfer Graph Neural Networks for Pandemic Forecasting (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16616/16423)]
 * dyngraph2vec: Capturing Network Dynamics using Dynamic Graph Representation Learning [[paper](https://arxiv.org/pdf/1809.02657)]
 * Sign: Scalable inception graph neural networks [[paper](https://arxiv.org/pdf/2004.11198)]
